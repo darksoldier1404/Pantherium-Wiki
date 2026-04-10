@@ -47,5 +47,5 @@
 
 ## 👨‍🌾 생활 직업 시스템
 
-* [Page 5](undefined/page-5.md)
+* [🛠️ 직업 시스템](undefined/undefined.md)
 * [디스코드](README.md#undefined-5)
