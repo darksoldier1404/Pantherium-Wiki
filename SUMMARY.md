@@ -43,11 +43,11 @@
 * [코스메틱 GUI](cosmetics/gui.md)
 * [🎨 아이템 스킨 시스템](cosmetics/itemskin.md)
 * [🏷️ 칭호 시스템](cosmetics/prefix.md)
-* [🐾 펫 시스템](cosmetics/undefined.md)
+* [🐾 펫 시스템](cosmetics/pet.md)
 
 ## 👨‍🌾 생활 직업 시스템
 
 * [🛠️ 직업 시스템](undefined/undefined.md)
-* [🪓 나무꾼](undefined/undefined-1.md)
-* [🌾 농부](undefined/undefined-2.md)
+* [🪓 나무꾼](undefined/lumberjack.md)
+* [🌾 농부](undefined/farmer.md)
 * [디스코드](README.md#undefined-5)
