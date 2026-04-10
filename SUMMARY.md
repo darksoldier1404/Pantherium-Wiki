@@ -40,7 +40,7 @@
 
 ## 🎀꾸미기 시스템 <a href="#cosmetics" id="cosmetics"></a>
 
-* [👕 옷장 스킨 사용법](cosmetics/gui.md)
+* [👕 옷장 스킨 사용법](cosmetics/wardrobe.md)
 * [🎨 아이템 스킨 시스템](cosmetics/itemskin.md)
 * [🏷️ 칭호 시스템](cosmetics/prefix.md)
 * [🐾 펫 시스템](cosmetics/undefined.md)
