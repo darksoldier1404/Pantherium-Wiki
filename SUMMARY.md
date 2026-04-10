@@ -38,11 +38,12 @@
 * [🔧 강화 시스템](reinforcement/logic.md)
 * [🧪 경험치 추출 시스템](reinforcement/expextraction.md)
 
-## 👕 꾸미기 시스템 <a href="#cosmetics" id="cosmetics"></a>
+## 🎀꾸미기 시스템 <a href="#cosmetics" id="cosmetics"></a>
 
 * [코스메틱 GUI](cosmetics/gui.md)
 * [🎨 아이템 스킨 시스템](cosmetics/itemskin.md)
 * [🏷️ 칭호 시스템](cosmetics/prefix.md)
+* [🐾 펫 시스템](cosmetics/undefined.md)
 
 ## 👨‍🌾 생활 직업 시스템
 
