@@ -48,4 +48,5 @@
 ## 👨‍🌾 생활 직업 시스템
 
 * [🛠️ 직업 시스템](undefined/undefined.md)
+* [🪓 나무꾼](undefined/undefined-1.md)
 * [디스코드](README.md#undefined-5)
