@@ -48,8 +48,11 @@
 ## 👨‍🌾 생활 직업 시스템
 
 * [🛠️ 직업 시스템](undefined/undefined.md)
-* [🪓 나무꾼](undefined/lumberjack.md)
 * [🌾 농부](undefined/farmer.md)
+* [🪓 나무꾼](undefined/lumberjack.md)
 * [⛏️ 광부](undefined/miner.md)
-* [🍳 요리사](undefined/undefined-1.md)
+* [🍳 요리사](undefined/chef.md)
+
+## 📕 참고 사이트
+
 * [디스코드](README.md#undefined-5)
