@@ -22,7 +22,7 @@
 * [👟 엘리베이터 시스템](lifestylecontents/elevator.md)
 * [🌱 자동 심기 시스템](lifestylecontents/autoplant.md)
 * [🐄 동물 사냥터](lifestylecontents/hunt.md)
-* [🪑 가구 시스템](lifestylecontents/furniture.md)
+* [🪑 가구 시스템](lifestylecontents/undefined-1.md)
 
 ## 🛠️ 편의 시스템 <a href="#conveniencesystem" id="conveniencesystem"></a>
 
@@ -50,5 +50,6 @@
 * [🛠️ 직업 시스템](undefined/undefined.md)
 * [🪓 나무꾼](undefined/lumberjack.md)
 * [🌾 농부](undefined/farmer.md)
-* [⛏️ 광부](undefined/undefined-1.md)
+* [⛏️ 광부](undefined/miner.md)
+* [🍳 요리사](undefined/undefined-1.md)
 * [디스코드](README.md#undefined-5)
