@@ -51,6 +51,7 @@
 * [🌾 농부](undefined/farmer.md)
 * [🪓 나무꾼](undefined/lumberjack.md)
 * [⛏️ 광부](undefined/miner.md)
+* [🎣 낚시꾼](undefined/undefined-1.md)
 * [🍳 요리사](undefined/chef.md)
 
 ## 📕 참고 사이트
