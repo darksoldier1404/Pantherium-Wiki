@@ -16,6 +16,7 @@
 
 ## 🌾 생활 콘텐츠 <a href="#lifestylecontents" id="lifestylecontents"></a>
 
+* [⛏️ 채굴 광산](lifestylecontents/minemap.md)
 * [💎 무한광산](lifestylecontents/oregen.md)
 * [🎣 특수 낚시](lifestylecontents/undefined.md)
 * [🕊️ 플라이 시스템](lifestylecontents/fly.md)
